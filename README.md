@@ -28,7 +28,7 @@ http://localhost/Blog_Webmaster_Pratik/fetch.php
 Step 4 :\
 To delete the Blogs \
 ```
-http://localhost/Blog_Webmaster_Pratik/index.html
+http://localhost/Blog_Webmaster_Pratik/delete_p.php
 ```
 
 Step 5 :
@@ -40,6 +40,6 @@ http://localhost/Blog_Webmaster_Pratik/fetch.php
 Step 6 :
 To bookmark the Blog\
 ```
-http://localhost/Blog_Webmaster_Pratik/fetch.php
+http://localhost/Blog_Webmaster_Pratik/bookmark.php
 ```
 
